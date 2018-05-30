@@ -2,6 +2,8 @@
 
 Good tools are essential things; Good prerequisite.
 
+![can not show ...](https://github.com/letterwuyu/vim-base-plugin/blob/master/snapshot.png)
+
 ## function
 
 Plugin 'VundleVim/Vundle.vim'
@@ -30,10 +32,7 @@ sudo yum install git
 
 ### start
 
-1. git clone https://github.com/letterwuyu/vim-base-plugin.git
-2. cd vim-base-plugin
-3. cp -r vim ~/.vim
-4. cp vimrc ~/.vimrc
+sh install.sh
 
 ### use
 
