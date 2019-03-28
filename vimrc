@@ -61,3 +61,5 @@ highlight LineNr cterm=bold ctermfg=cyan
 highlight LineNr cterm=bold ctermbg=black
 set cursorline
 map <F2> :NERDTreeToggle<CR>
+set ts=4
+set expandtab
